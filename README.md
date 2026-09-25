@@ -1,6 +1,6 @@
 # TRI PIXEL
 
-Un juego de triatlón en el que construyes a tu atleta, N atación, T1, Ciclismo, T2 y Running.
+Un juego de triatlón en el que construyes a tu atleta, Natación, T1, Ciclismo, T2 y Running.
 Mejoras tus marcas, skills ganas XP, dinero y vuelves porque quieres superar a tu propio personaje.
 
 **Jugar: https://simonpinto22bbc.github.io/tri-pixel/**
