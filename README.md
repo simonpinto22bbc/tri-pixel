@@ -1,10 +1,11 @@
 # TRI PIXEL
 
-Juego de triatlón: natación, T1, ciclismo, T2 y carrera a pie. Hecho con Godot 4.
+Un juego de triatlón en el que construyes a tu atleta, N atación, T1, Ciclismo, T2 y Running.
+Mejoras tus marcas, skills ganas XP, dinero y vuelves porque quieres superar a tu propio personaje.
 
 **Jugar: https://simonpinto22bbc.github.io/tri-pixel/**
 
-Este repositorio contiene únicamente la **compilación para web**. El código fuente no está aquí.
+Este repositorio contiene únicamente la **compilación para web**. 
 
 ## Cómo se juega
 
@@ -19,8 +20,8 @@ Este repositorio contiene únicamente la **compilación para web**. El código f
 | TAB | Clasificación · M mapa |
 | ESC | Pausa |
 
-En las transiciones (T1 y T2) se pulsan las letras que aparecen en pantalla.
+En las transiciones (T1 y T2) se pulsan las teclas que aparecen en pantalla.
 
 ## Aviso
-
-Primera versión pública, en desarrollo. La primera carga descarga unos 40 MB.
+Hecho con Godot 4.
+V1.0 Beta. La primera carga descarga unos 40 MB.
